@@ -1,10 +1,13 @@
 ---
-title: "Reproducible Research: Peer Assessment 1"
+title: 'Reproducible Research: Peer Assessment 1'
 author: "Montserrat Perez"
 date: "Friday, May 15, 2015"
-output: html_document
-keep_md: true
-
+output:
+  html_document:
+    fig_caption: yes
+    keep_md: yes
+    toc: yes
+keep_md: yes
 ---
 We use data from a personal monitoring device. This device collects data at 5 minute intervals through out the day. The data consists of two months of data from an anonimous individual collected during the months of October and November 2012 and include the number of steps taken during each 5 minute interval 
 
